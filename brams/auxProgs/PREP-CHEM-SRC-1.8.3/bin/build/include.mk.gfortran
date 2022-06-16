@@ -88,4 +88,3 @@ ARCHIVE=ar rs
 # For SUN,CONVEX
 #ARCHIVE=ar r'
 
-
