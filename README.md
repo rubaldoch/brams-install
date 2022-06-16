@@ -1,6 +1,6 @@
-# HPC BRAMS INSTALLACION
+# HPC BRAMS INSTALLATION
 
-In this repo we share script to install [BRAMS](http://brams.cptec.inpe.br/) in an HPC Cluster. In order to create the script we followed the current README and fixed some bugs during the installation process. 
+In this repo we share script to install [BRAMS](http://brams.cptec.inpe.br/) in an HPC Cluster. In order to create the scripts we followed the oficial current [REAME](http://ftp.cptec.inpe.br/pesquisa/bramsrd/BRAMS/releases/stable/BRAMS-5.6/README) and fixed some bugs during the installation process. 
 
 Take a look both of the script to know more about the installation process.
 
