@@ -39,6 +39,7 @@ wget https://raw.githubusercontent.com/rubaldoch/brams-install/main/wgrib/makefi
 make CC=gcc FC=gfortran
 make CC=gcc FC=gfortran lib
 cd $FOLDER/requirements/src
+cp -r grib2/include/* $FOLDER/requirements/build/include
 cp -r grib2/lib/* $FOLDER/requirements/build/include
 #cp -r grib2 $FOLDER/requirements/build
 
