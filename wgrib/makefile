@@ -162,7 +162,7 @@ USE_G2CLIB=0
 USE_PNG=0
 USE_JASPER=0
 USE_OPENJPEG=0
-USE_AEC=1
+USE_AEC=0
 
 # Add any customization comments, appears in help and config pages
 BUILD_COMMENTS=stock build
